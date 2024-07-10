@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "4b865034-6ef2-49bc-866e-4ad38702a978",
+    "name": "Harvey Rippin",
+    "phone": "(363) 237-6671 x907",
+    "email": "Alvina19@yahoo.com",
+    "job": "Chief Functionality Coordinator"
+  },
+  {
+    "id": "875e2da7-9e81-4fde-9ef9-9b41ba2b4585",
+    "name": "Lois Rohan",
+    "phone": "557.223.9723",
+    "email": "Oswald.Kunze20@gmail.com",
+    "job": "International Program Engineer"
+  },
+  {
+    "id": "60954166-ec28-4bf1-831b-e989d256ac27",
+    "name": "Gerard Franey",
+    "phone": "854.467.8071",
+    "email": "Liana_Schuster55@gmail.com",
+    "job": "Customer Group Specialist"
+  }
+]
